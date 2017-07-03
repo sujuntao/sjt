@@ -1,0 +1,11 @@
+@keyframes img_1 {
+    0%{transform: rotate(360deg)}
+}
+@keyframes music1 {
+    0%{}
+    100%{transform: rotateZ(360deg)}
+}
+@keyframes tubiao {
+    0%{transform: translateY(-0.8rem)}
+    100%{}
+}
